@@ -1,7 +1,7 @@
 #first config file
 spring:
   application:
-    name: USER-SERVICE
+    name: CONFIG-SERVICE
     
 eureka:
   client:
